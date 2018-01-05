@@ -1,5 +1,5 @@
 # Site settings
-title: CDL Blog
+title: 一条小虫的博客
 SEOTitle: 一条小虫的博客 | CDL Blog
 header-img: img/post-bg-desk.jpg
 email: cdl_bupt@163.com
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: e2467f3a91bfb210c97b   #生成的clientID
+  clientSecret: c12ea87afb8c04d92a65506ffb29ebdf7847eee2  #同上
+  repo: https://killover.github.io    #仓库名称
+  owner: KillOver    #github用户名
+  admin: KillOver
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
