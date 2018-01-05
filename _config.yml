@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e2467f3a91bfb210c97b   #生成的clientID
   clientSecret: c12ea87afb8c04d92a65506ffb29ebdf7847eee2  #同上
-  repo: https://killover.github.io    #仓库名称
+  repo: https://github.com/KillOver/killover.github.io.git    #仓库名称
   owner: KillOver    #github用户名
   admin: KillOver
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
