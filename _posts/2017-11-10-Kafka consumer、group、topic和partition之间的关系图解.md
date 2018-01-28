@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      YARN 工作流程
+title:      Kafka consumer、group、topic和partition之间的关系图解
 subtitle:   
 date:       2017-11-02
 author:     一条小虫
