@@ -4,7 +4,7 @@ title:      MapReduce 原理基础
 subtitle:   
 date:       2017-10-22
 author:     一条小虫
-header-img: img/MapReduce基础/MapReduce 2.png
+header-img: img/MapReduce基础/MapReduce.png
 catalog: true
 tags:
     - MapReduce
