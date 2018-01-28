@@ -2,7 +2,7 @@
 layout:     post
 title:      基于回调的JavaScript异步实现方法与实践
 subtitle:   
-date:       2016-12-24
+date:       2018-01-12
 author:     一条小虫
 header-img: img/基于回调的JavaScript异步实现方法与实践/programming.jpg
 catalog: true
